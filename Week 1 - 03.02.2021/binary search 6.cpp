@@ -1,5 +1,5 @@
-# Binary Search 6 in C++
-# Author ; Abhishek Sharma
+// Binary Search 6 in C++
+// Author ; Abhishek Sharma
 
 #include<bits/stdc++.h>
 using namespace std;
