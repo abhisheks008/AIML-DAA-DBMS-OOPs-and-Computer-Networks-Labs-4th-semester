@@ -1,4 +1,9 @@
-﻿% 1. Calculate the average of two numbers.
+﻿% Computer Networks Lab 1 04.02.2021
+ % Author : Abhishek Sharma
+ % Assignment 1
+ % Faculty SLC
+ 
+ % 1. Calculate the average of two numbers.
 a = 6;
 b = 7;
 c = (a+b)/2;
