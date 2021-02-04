@@ -1,5 +1,5 @@
 ## Design-and-Analysis-Algorithm-Lab-4th-Semester
-In this repository I will share all the solutions of the assignments given in the Design and Analysis Algorithms Lab during the 4th Semester of UEMK Batch 2019
+In this repository I will share all the solutions of the assignments given in the Design and Analysis Algorithms Lab and the Advanced AI/ML Lab during the 4th Semester of UEMK Batch 2019
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
