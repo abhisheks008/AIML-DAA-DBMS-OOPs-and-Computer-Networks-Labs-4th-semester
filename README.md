@@ -8,6 +8,7 @@ In this repository I will share all the solutions of the assignments given in th
 |:---:|:---:|:---:|:---:|:---:|
 |02.02.2021|01|<a href = "https://github.com/abhisheks008/Advanced-AIML-and-Design-Algorithm-Analysis-Lab-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%201%2002.02.2021.ipynb">Advanced AI/ML Lab 1|Jupyter Notebook|ALL DONE|
 |03.02.2021|01|<a href="https://github.com/abhisheks008/Design-and-Analysis-Algorithm-Lab-4th-Semester/tree/main/Week%201%20-%2003.02.2021">Design and Analysis Algorithms Lab 1</a>|Python & C++|ALL SOLVED|
+|04.02.2021|01|<a href = "https://github.com/abhisheks008/AIML-DAA-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%201%2004_02_2021.m"> Computer Networks Lab 1</a>|GNU Octave Online|ALL SOLVED|
 
 
 
