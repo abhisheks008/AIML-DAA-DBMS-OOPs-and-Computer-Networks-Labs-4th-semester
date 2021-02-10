@@ -1,4 +1,4 @@
-# Quick Sort using Python
+# Merge Sort using Python
 # Author : Abhishek Sharma
 
 # Input Line :
@@ -10,27 +10,40 @@
 
 
 
-# Code :
-def partition(array, low, high):
-    pivot = array[high]
-    i = low - 1
-    for j in range(low, high):
-        if array[j] <= pivot:
-            i = i + 1
-            (array[i], array[j]) = (array[j], array[i])
-    (array[i + 1], array[high]) = (array[high], array[i + 1])
-    return i + 1
+def mergeSort(array):
+    if len(array) > 1:
+        r = len(array)//2
+        L = array[:r]
+        M = array[r:]
+        mergeSort(L)
+        mergeSort(M)
+        i = j = k = 0
+        while i < len(L) and j < len(M):
+            if L[i] < M[j]:
+                array[k] = L[i]
+                i += 1
+            else:
+                array[k] = M[j]
+                j += 1
+            k += 1
+        while i < len(L):
+            array[k] = L[i]
+            i += 1
+            k += 1
 
-# author : Abhishek Sharma
-def quickSort(array, low, high):
-    if low < high:
-        pi = partition(array, low, high)
-        quickSort(array, low, pi - 1)
-        quickSort(array, pi + 1, high)
+        while j < len(M):
+            array[k] = M[j]
+            j += 1
+            k += 1
+# Author : Abhishek Sharma
+def printList(array):
+    for i in range(len(array)):
+        print(array[i], end=" ")
+    print()
 
-# Quick Sort using Python 3
-size = int(input())
-data = list(map(int, input().split()))
-quickSort(data, 0, size - 1)
-for z in range (0,size):
-    print (data[z], end = " ")
+# Merge Sort using Python
+if __name__ == '__main__':
+    z = int(input())
+    array = list(map(int, input().split()))
+    mergeSort(array)
+    printList(array)
