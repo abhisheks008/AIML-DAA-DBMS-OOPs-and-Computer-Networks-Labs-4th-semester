@@ -4,7 +4,7 @@ Date : 10.02.2021
 
 ### Languages used for programming :
 - Python
-
+- C
 
 ### HackerRank Link for the questions : https://www.hackerrank.com/quick-sort-1612859839
 
