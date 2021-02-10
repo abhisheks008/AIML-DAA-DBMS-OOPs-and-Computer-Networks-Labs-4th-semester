@@ -7,11 +7,11 @@ In this repository I will share all the solutions of the assignments given in th
 |Date|Week no.|Subject|Languages/Tools used|Status|
 |:---:|:---:|:---:|:---:|:---:|
 |02.02.2021|01|<a href = "https://github.com/abhisheks008/Advanced-AIML-and-Design-Algorithm-Analysis-Lab-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%201%2002.02.2021.ipynb">Advanced AI/ML Lab 1|Jupyter Notebook|ALL DONE|
-|03.02.2021|01|<a href="https://github.com/abhisheks008/Design-and-Analysis-Algorithm-Lab-4th-Semester/tree/main/Week%201%20-%2003.02.2021">Design and Analysis Algorithms Lab 1</a>|Python & C++|ALL SOLVED|
+|03.02.2021|01|<a href="https://github.com/abhisheks008/Design-and-Analysis-Algorithm-Lab-4th-Semester/tree/main/Week%201%20-%2003.02.2021">Design and Analysis Algorithms Lab 1</a>|Python 3 & C++|ALL SOLVED|
 |04.02.2021|01|<a href = "https://github.com/abhisheks008/AIML-DAA-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%201%2004_02_2021.m"> Computer Networks Lab 1</a>|GNU Octave Online|ALL SOLVED|
 |05.02.2021|01|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%201%2005.02.2021.sql">DBMS Lab 1</a>|Oracle 10g Express|ALL SOLVED|
 |09.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%202%2009.02.2021.ipynb">Advanced AI/ML Lab 2</a>|Jupyter Notebook|ALL DONE|
-|10.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/tree/main/Week%202%20-%2010.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 2</a>|Python 3|ALL SOLVED|
+|10.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/tree/main/Week%202%20-%2010.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 2</a>|Python 3 & C|ALL SOLVED|
 |11.02.2021|02|Computer Networks Lab 2|-|-|
 |12.02.2021|02| DBMS Lab 2|-|-|
 
