@@ -12,7 +12,7 @@ In this repository I will share all the solutions of the assignments given in th
 |05.02.2021|01|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%201%2005.02.2021.sql">DBMS Lab 1</a>|Oracle 10g Express|ALL SOLVED|
 |09.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%202%2009.02.2021.ipynb">Advanced AI/ML Lab 2</a>|Jupyter Notebook|ALL DONE|
 |10.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/tree/main/Week%202%20-%2010.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 2</a>|Python 3 & C|ALL SOLVED|
-|11.02.2021|02|Computer Networks Lab 2|-|-|
+|11.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%202%2011_02_2021.m">Computer Networks Lab 2</a>|GNU Octave PC version|ALL SOLVED|
 |12.02.2021|02| DBMS Lab 2|-|-|
 
 
