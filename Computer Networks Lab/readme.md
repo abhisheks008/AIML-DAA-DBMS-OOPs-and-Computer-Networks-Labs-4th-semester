@@ -2,7 +2,8 @@
 here in this repo I will upoad all the octave files of the assignments
 
 ### Tools used :
-- Octave Online
+- GNU Octave Online
+- GNU Octave for PC
 
 ******************************************************
 ### abhisheks008
