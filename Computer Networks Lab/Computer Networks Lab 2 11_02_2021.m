@@ -2,6 +2,7 @@ clc;
 clear all;
 close all;
 
+% Plot the Sine wave and Cosine wave.
 % Plot the amplitude frequency curve with user input values.
 % Message Signal
 % Carrier Signal
@@ -9,6 +10,8 @@ close all;
 
 % Author : Abhishek Sharma
 % Computer Networks Lab 2 : 11.02.2021
+
+% Plotting Sine and cosine wave
 x = 0:0.1:10;
 plot (x, sin (x));
 hold on;
@@ -16,6 +19,8 @@ plot (x, cos(x),'r');
 title ('Sine and cosine wave');
 legend ('sin','cos');
 
+
+% Plotting Amplitude Frequency curve of various signals
 t = 0:.001:1;
 AM = input('Enter the amplitude of the message signal :')
 FM = input('Enter the frequency of the message signal :')
