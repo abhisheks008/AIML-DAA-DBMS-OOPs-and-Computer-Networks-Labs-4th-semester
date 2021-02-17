@@ -17,7 +17,7 @@ In this repository I will share all the solutions of the assignments given in th
 |12.02.2021|02| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%202%2012.02.2021.sql">DBMS Lab 2</a>|Oracle 10g Express|ALL SOLVED|
 |16.02.2021|03|Advanced AI/ML Lab 3|<span style = "color:red;"> _Holiday_   |-|</span>
 |17.02.2021|03 (Cl. 5)|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%205">OOPs using JAVA Day 5 [Assignment Included]</a>|JAVA | ALL DONE|  
-|17.02.2021|03|Design Analysis and Algorithms Lab 3|-|-|
+|17.02.2021|03|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/Week%203%20-%2017.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 3</a>|Python 3|ALL SOLVED|
 |18.02.2021|03|Computer Networks Lab 3|-|-|
 |19.02.2021|03|DBMS Lab 3|-|-|
   
