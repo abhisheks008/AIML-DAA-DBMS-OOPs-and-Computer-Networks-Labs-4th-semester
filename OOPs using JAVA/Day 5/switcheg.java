@@ -1,3 +1,10 @@
+// Switch Case 1st example using JAVA
+// Author : Abhishek Sharma
+// OOPs using JAVA Day 5 week 3
+// Date : 17.02.2021
+
+
+// Give an example of Switch case statement in JAVA Program.
 public class switcheg {
 	public static void main (String[] args){
 		char ch = 'o';
