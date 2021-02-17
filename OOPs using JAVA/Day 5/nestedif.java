@@ -23,3 +23,7 @@ public class nestedif{
 	}
 	}
 }
+
+
+// Output :
+// You are not eligible to donate blood.
