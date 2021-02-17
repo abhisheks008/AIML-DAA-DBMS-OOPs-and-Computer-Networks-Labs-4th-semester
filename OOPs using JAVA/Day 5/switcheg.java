@@ -35,3 +35,7 @@ public class switcheg {
 		}
 	}
 }
+
+
+// Output :
+// Vowel
