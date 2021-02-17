@@ -13,10 +13,10 @@ In this repository I will share all the solutions of the assignments given in th
 |09.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%202%2009.02.2021.ipynb">Advanced AI/ML Lab 2</a>|Jupyter Notebook|ALL DONE|
 |10.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/tree/main/Week%202%20-%2010.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 2</a>|Python 3 & C|ALL SOLVED|
 |11.02.2021|02|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%202%2011_02_2021.m">Computer Networks Lab 2</a>|GNU Octave PC version|ALL SOLVED|
-|12.02.2021|02 (Class 4)|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/OOPs%20using%20JAVA/Day%204.java">OOPs using JAVA Day 4</a>|JAVA|ALL DONE|
+|12.02.2021|02 (Cl. 4)|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-and-Computer-Networks-Labs-4th-semester/blob/main/OOPs%20using%20JAVA/Day%204.java">OOPs using JAVA Day 4</a>|JAVA|ALL DONE|
 |12.02.2021|02| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%202%2012.02.2021.sql">DBMS Lab 2</a>|Oracle 10g Express|ALL SOLVED|
 |16.02.2021|03|Advanced AI/ML Lab 3|<span style = "color:red;"> _Holiday_   |-|</span>
-|17.02.2021|03 (Class 5)|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%205">OOPs using JAVA Day 5 [Assignment Included]</a>|JAVA | ALL DONE|  
+|17.02.2021|03 (Cl. 5)|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%205">OOPs using JAVA Day 5 [Assignment Included]</a>|JAVA | ALL DONE|  
 |17.02.2021|03|Design Analysis and Algorithms Lab 3|-|-|
 |18.02.2021|03|Computer Networks Lab 3|-|-|
 |19.02.2021|03|DBMS Lab 3|-|-|
