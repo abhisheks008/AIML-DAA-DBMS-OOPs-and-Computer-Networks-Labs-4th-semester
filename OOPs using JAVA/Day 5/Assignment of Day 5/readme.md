@@ -80,15 +80,16 @@ Q36. Write a Java program whether a number is Armstrong or not.
 
 Q37. Write a Java program to print the following pattern.
 
+```
 1
 
 2 3 4
 
 5 6 7 8 9
-
+```
 
 Q38.  Write a Java program to print the following pattern.
-
+```
    1
    
   212
@@ -96,10 +97,10 @@ Q38.  Write a Java program to print the following pattern.
  32123
  
 4321234
-
+```
 
 Q39. Write a Java program to print the following pattern.
-
+```
 1     1
 
  2   2
@@ -107,7 +108,7 @@ Q39. Write a Java program to print the following pattern.
   3 3
   
    4
-   
+```   
 
 ***************************************************************
 
