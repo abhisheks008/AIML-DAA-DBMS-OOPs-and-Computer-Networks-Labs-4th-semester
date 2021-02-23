@@ -20,7 +20,7 @@ In this repository I will share all the solutions of the assignments given in th
 |17.02.2021|03|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/Week%203%20-%2017.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 3</a>|Python 3|ALL SOLVED|
 |18.02.2021|03|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%203%2018_02_2021.m">Computer Networks Lab 3</a>|GNU Octave Online|ALL DONE|
 |19.02.2021|03|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%203%2019.02.2021.sql">DBMS Lab 3</a>|Oracle 10G Express|ALL SOLVED|
-|23.02.2021|04| Advanced AI/ML Lab 3|-|-|
+|23.02.2021|04|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%203%2023.02.2021.ipynb"> Advanced AI/ML Lab 3</a>|Jupyter Notebook|ALL DONE|
 |24.02.2021|04| Design Analysis and Algorithms Lab 4|-|-|
 |25.02.2021|04|Computer Networks Lab 4|-|-|
 |26.02.2021|04| DBMS Lab 4|-|-|
