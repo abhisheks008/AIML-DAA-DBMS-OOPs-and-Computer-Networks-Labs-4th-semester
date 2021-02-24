@@ -22,6 +22,7 @@ In this repository I will share all the solutions of the assignments given in th
 |19.02.2021|03|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%203%2019.02.2021.sql">DBMS Lab 3</a>|Oracle 10G Express|ALL SOLVED|
 |23.02.2021|04|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%203%2023.02.2021.ipynb"> Advanced AI/ML Lab 3</a>|Jupyter Notebook|ALL DONE|
 |24.02.2021|04|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/Week%204%20-%2024.02.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 4</a>|C++ & Python 3|ALL DONE|
+|24.02.2021|04 (Class 7)|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%207"> OOPs using JAVA Day 7|JAVA| ALL DONE|
 |25.02.2021|04|Computer Networks Lab 4|-|-|
 |26.02.2021|04| DBMS Lab 4|-|-|
   
