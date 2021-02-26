@@ -35,3 +35,8 @@ class object3 {
         System.out.println("The result is : " + res);
     }
 }
+
+
+// Output :
+// The result is : 5
+// The result is : 9
