@@ -29,3 +29,8 @@ class object {
 
     }
 }
+
+
+// output :
+// The result is : 9
+// The another result is : 11
