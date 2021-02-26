@@ -27,3 +27,7 @@ class object2 {
     }
     
 }
+
+
+// Output :
+// The result is : 5
