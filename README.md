@@ -26,7 +26,10 @@ In this repository I will share all the solutions of the assignments given in th
 |25.02.2021|04|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%204%2025_02_2021.m">Computer Networks Lab 4</a>|GNU Octave Online|ALL DONE|
 |26.02.2021|04 (Class 8)| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%208"> OOPs using JAVA Day 8</a>|JAVA| ALL DONE|
 |26.02.2021|04| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%204%2026.02.2021.sql">DBMS Lab 4</a>|Oracle Database 10G Express|ALL DONE|
-  
+|02.03.2021|05|Advanced AI/ML Lab 4|-|-|
+|03.03.2021|05|Design Analysis and Algorithms Lab 5|-|-|
+|04.03.2021|05|Computer Networks Lab 5|-|-|
+|05.03.2021|05|DBMS Lab 5|-|-|
 
 
 
