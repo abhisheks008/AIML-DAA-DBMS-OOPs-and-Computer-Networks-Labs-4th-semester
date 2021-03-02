@@ -28,7 +28,7 @@ In this repository I will share all the solutions of the assignments given in th
 |25.02.2021|04|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%204%2025_02_2021.m">Computer Networks Lab 4</a>|<img alt="Matlab" src="https://img.shields.io/badge/Matlab-FA7343?&style=for-the-badge&logo=matlab&logoColor=white"/>|ALL DONE|
 |26.02.2021|04 (Class 8)| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%208"> OOPs using JAVA Day 8</a>|<img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white">| ALL DONE|
 |26.02.2021|04| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%204%2026.02.2021.sql">DBMS Lab 4</a>|<img alt= "Oracle" src="https://img.shields.io/badge/Oracle-DC322F?style=for-the-badge&logo=oracle&logoColor=white"> <img alt = "SQL" src = "https://img.shields.io/badge/SQL-6713d4?style=for-the-badge&logo=sql&logoColor=white">|ALL DONE|
-|02.03.2021|05|Advanced AI/ML Lab 4|-|-|
+|02.03.2021|05|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%204%2002.03.2021.ipynb">Advanced AI/ML Lab 4|[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)|ALL DONE|
 |03.03.2021|05|Design Analysis and Algorithms Lab 5|-|-|
 |04.03.2021|05|Computer Networks Lab 5|-|-|
 |05.03.2021|05|DBMS Lab 5|-|-|
