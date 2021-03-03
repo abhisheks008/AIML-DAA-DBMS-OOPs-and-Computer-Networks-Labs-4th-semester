@@ -1,4 +1,4 @@
-## :computer:Design and Analysis Algorithms Lab 5  Week 5  Assignments
+## :computer: :diamond_shape_with_a_dot_inside:  Design and Analysis Algorithms Lab 5  Week 5  Assignments :diamond_shape_with_a_dot_inside:
 
 Date : 03.03.2021
 
