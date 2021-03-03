@@ -1,5 +1,6 @@
 ## :computer: :diamond_shape_with_a_dot_inside:  Design and Analysis Algorithms Lab 5  Week 5  Assignments :diamond_shape_with_a_dot_inside:
 
+### ```Versatile Assignment Solutions in Minimum TWO Programming Languages```
 Date : 03.03.2021
 
 ### Languages used for programming :
