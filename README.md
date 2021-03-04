@@ -48,5 +48,5 @@ In this repository I will share all the solutions of the assignments given in th
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
-*************************************************************************
+
 ## Show some :heart: if you like it!
