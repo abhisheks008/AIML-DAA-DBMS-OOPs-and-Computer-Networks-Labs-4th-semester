@@ -1,8 +1,9 @@
 ## Object Oriented Programming using JAVA
-### Assignment 3
+### :computer: Assignment 3
 #### Tools used : Visual Studio Code and JDK 15
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
-#### Submission link of the Assignment : https://forms.gle/3dnU3PnpD1SVk1UN9
+#### :link: Submission link of the Assignment : https://forms.gle/3dnU3PnpD1SVk1UN9
 Code contributed by, Abhishek Sharma, 2021 @abhisheks008
 
 ### Problems given in the Assignment :
@@ -42,5 +43,5 @@ Now write a demo class to test the Commission class by reading a sale from the u
 
 *******************************************************
 
-### docx file of the assignment is attached with this repository
+### :heavy_check_mark: docx file of the assignment is attached with this repository
 
