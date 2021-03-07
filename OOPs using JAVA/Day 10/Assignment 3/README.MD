@@ -1,11 +1,10 @@
-## Object Oriented Programming using JAVA
+## :trident: Object Oriented Programming using JAVA :trident:
 ### :computer: Assignment 3
 #### Tools used : Visual Studio Code and JDK 15
-:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
-
+********************************************************************************************
 #### :link: Submission link of the Assignment : https://forms.gle/3dnU3PnpD1SVk1UN9
 Code contributed by, Abhishek Sharma, 2021 @abhisheks008
-
+******************************************************************************************
 ### Problems given in the Assignment :
 
 1. Write a Java program to calculate Sum & Average of an integer array. 
