@@ -1,4 +1,4 @@
-## :computer: Object oriented programming using Java : Day 5 : Assignment 1
+## :computer: Object oriented programming using Java : Day 5 : Assignment 1 and 2
 **Date : 17.02.2021**
 
 #### Submission Date : 28.02.2021
