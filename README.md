@@ -40,7 +40,7 @@ In this repository I will share all the solutions of the assignments given in th
 |12.03.2021|06|DBMS Lab 6|Midterm - I|-|
 |16.03.2021|07|Advanced Ai/ML Lab 5|Midterm - I|-|
 |17.03.2021|07| Design Analysis and Algortihms Lab 6|-|-|
-|18.03.2021|07|Computer Networks Lab 6|--|
+|18.03.2021|07|Computer Networks Lab 6|-|-|
 |19.03.2021|07|DBMS Lab 6|-|-|
 
 
