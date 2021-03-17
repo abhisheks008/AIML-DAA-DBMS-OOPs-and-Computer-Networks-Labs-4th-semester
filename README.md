@@ -40,7 +40,7 @@ In this repository I will share all the solutions of the assignments given in th
 |12.03.2021|06|DBMS Lab 6|Midterm - I|-|
 |16.03.2021|07|Advanced Ai/ML Lab 5|Midterm - I|-|
 |17.03.2021|07| <a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/Week%206%20-%2017.03.2021%20DAA%20Lab">Design Analysis and Algortihms Lab 6</a>|<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>|ALL DONE|
-|17.03.2021|07|OOPs using JAVA Day 11 [Assignment Included]|-|_working_|
+|17.03.2021|07|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%2011">OOPs using JAVA Day 11 [Assignment Included]</a>|<img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white">|ALL DONE|
 |18.03.2021|07|Computer Networks Lab 6|-|-|
 |19.03.2021|07|DBMS Lab 6|-|-|
 
