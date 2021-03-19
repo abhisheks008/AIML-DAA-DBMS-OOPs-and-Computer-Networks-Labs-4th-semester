@@ -6,7 +6,7 @@ here in this repo I will upload all the octave files and also the packet tracer 
 
 :white_check_mark: GNU Octave for PC
 
-:white_check_mark: Cisco Packet Tracer Software
+:white_check_mark: Cisco Packet Tracer Software : Version 7.2
 
 ******************************************************
 ### abhisheks008 :american_samoa:
