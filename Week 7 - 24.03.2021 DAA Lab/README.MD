@@ -4,9 +4,13 @@
 Date : 24.03.2021
 
 ### Languages used for programming :
-   :arrow_forward: Python :heavy_check_mark:
+   :arrow_forward: Python 3 :heavy_check_mark:
    
-   :arrow_forward: C++ :heavy_check_mark:
+   :arrow_forward: C++ 14 :heavy_check_mark:
+   
+   :arrow_forward: C :heavy_check_mark:
+   
+   :arrow_forward: Java 8 :heavy_check_mark:
    
    
 
