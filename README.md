@@ -48,6 +48,10 @@ In this repository I will share all the solutions of the assignments given in th
 |25.03.2021|08|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%207%2024_03_2021.md">Computer Networks Lab 7</a>|<img alt = "Cisco_Packet_Tracer" src = "https://img.shields.io/badge/cisco_packet_tracer-148331.svg?&style=for-the-badge&logo=cisco%2B%2B&ogoColor=white">|ALL DONE|
 |26.03.2021|08|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/OOPs%20using%20JAVA/Day%2014">OOPs using JAVA Day 14 [Assignment Included]</a>|<img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white">|ALL DONE|
 |26.03.2021|08|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/DBMS%20Lab/Lab%207%2026.03.2021.sql">DBMS Lab 7</a>|<img alt= "Oracle" src="https://img.shields.io/badge/Oracle-DC322F?style=for-the-badge&logo=oracle&logoColor=white"> <img alt = "SQL" src = "https://img.shields.io/badge/SQL-6713d4?style=for-the-badge&logo=sql&logoColor=white">|ALL DONE|
+|30.03.2021|09|Advanced AI/ML Lab 6|-|-|
+|31.03.2021|09| Design Analysis and Algorithms Lab 8|-|-|
+|01.04.2021|09|Computer Networks Lab 8|-|-|
+|02.04.2021|09|DBMS Lab 8|-|-|
 
 
 ******************************************************************
