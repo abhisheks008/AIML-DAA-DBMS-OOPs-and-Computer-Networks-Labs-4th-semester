@@ -1,5 +1,5 @@
 ## :sparkle: Object Oriented Programming using JAVA :sparkle:
-:arrow_forward: Faculty : SK :arrow_backward:
+:arrow_forward: **Faculty : SK** :arrow_backward:
 
 ### :eight_spoked_asterisk: Tools Used :
 :heavy_check_mark: Sublime text editor or, Notepad or, Notepad++
