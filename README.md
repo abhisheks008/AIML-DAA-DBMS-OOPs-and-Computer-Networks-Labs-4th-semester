@@ -52,7 +52,7 @@ In this repository I will share all the solutions of the assignments given in th
 |31.03.2021|09|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/Week%208%20-%2031.03.2021%20DAA%20Lab">Design Analysis and Algorithms Lab 8</a>|<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|ALL DONE|
 |01.04.2021|09|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Computer%20Networks%20Lab/Computer%20Networks%20Lab%208%2001_04_2021.pdf">Computer Networks Lab 8</a>|<img alt = "Cisco_Packet_Tracer" src = "https://img.shields.io/badge/cisco_packet_tracer-148331.svg?&style=for-the-badge&logo=cisco%2B%2B&ogoColor=white">|ALL DONE|
 |02.04.2021|09|DBMS Lab 8| *Holiday* [Good Friday]|-|
-|06.04.2021|10|Advanced AI/ML Lab 7|-|-|
+|06.04.2021|10|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%207%2006.04.2021.ipynb">Advanced AI/ML Lab 7</a>|[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)|ALL DONE|
 |07.04.2021|10|Design Analysis and Algorithms Lab 9|-|-|
 |08.04.2021|10|Computer Networks Lab 9|-|-|
 |09.04.2021|10|DBMS Lab 8|-|-|
