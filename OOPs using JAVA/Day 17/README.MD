@@ -1,4 +1,11 @@
-### Object Oriented Programming using JAVA Day 17 Assignment
+### :TRIDENT: Object Oriented Programming using JAVA Day 17 Assignment :TRIDENT:
+#### Platform used : Visual Studio Code and JDK 15 version
+*********************************************************************************
+### :computer: Assignment : 7
+#### :link: Assignment Submission Link : https://forms.gle/qX6Ew78ian8abytJ7
+#### Last Date of Submission : 20.04.2021
+**********************************************************************************
+
 1. Write a Java program for calculating Factorial. Number should be taken through user input (Using Scanner
 2. Design a palindrome class that will input a string from console and check whether the string is palindrome or not. 
 3. Write a Java program to merge two strings. 
