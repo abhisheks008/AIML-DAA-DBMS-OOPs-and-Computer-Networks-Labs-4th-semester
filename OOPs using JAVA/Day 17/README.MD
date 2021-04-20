@@ -1,4 +1,4 @@
-### :TRIDENT: Object Oriented Programming using JAVA Day 17 Assignment :TRIDENT:
+### :trident: Object Oriented Programming using JAVA Day 17 Assignment :trident:
 #### Platform used : Visual Studio Code and JDK 15 version
 *********************************************************************************
 ### :computer: Assignment : 7
