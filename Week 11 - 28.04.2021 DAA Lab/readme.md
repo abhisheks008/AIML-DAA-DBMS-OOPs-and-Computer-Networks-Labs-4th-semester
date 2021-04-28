@@ -6,6 +6,16 @@ Date : 28.04.2021
 ### Languages used for programming :
    :arrow_forward: Python 3 :heavy_check_mark:
    
+   :arrow_forward: C :heavy_check_mark:
+   
+   :arrow_forward: C++ :heavy_check_mark:
+   
+   :arrow_forward: Java 8 :heavy_check_mark:
+   
+   :arrow_forward: C# :heavy_check_mark:
+   
+   :arrow_forward: PHP :heavy_check_mark:
+   
 
 
 ### :link: HackerRank Link for the questions : https://www.hackerrank.com/coding-competition-28042021
