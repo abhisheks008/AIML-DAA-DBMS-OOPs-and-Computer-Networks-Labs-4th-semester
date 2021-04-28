@@ -10,7 +10,7 @@ Date : 21.04.2021
    
 
 
-### :link: HackerRank Link for the questions : https://www.hackerrank.com/coding-competition-21042021
+### :link: HackerRank Link for the questions : https://www.hackerrank.com/coding-competition-28042021
 
 ********************************************************
 ### abhisheks008 :heart:
