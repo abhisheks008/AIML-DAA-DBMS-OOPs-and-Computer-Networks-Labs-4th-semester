@@ -3,7 +3,7 @@ In this repository I will share all the solutions of the assignments given in th
 
 
 
-**************************************************
+*******************************************************
 
 |Date|Week no.|Subject|Languages/Tools used|Status|
 |:---:|:---:|:---:|:---:|:---:|
