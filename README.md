@@ -69,9 +69,19 @@ In this repository I will share all the solutions of the assignments given in th
 |27.04.2021|13|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/blob/main/Advanced%20AIML%20Lab/Advanced%20AI-ML%20Lab%2010%2027.04.2021.ipynb">Advanced AI/ML Lab 10</a>| [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)|ALL DONE|
 |28.04.2021|12|<a href = "https://github.com/abhisheks008/AIML-DAA-DBMS-OOPs-and-Computer-Networks-Labs-4th-semester/tree/main/Week%2011%20-%2028.04.2021%20DAA%20Lab"> Design Analysis and Algorithms Lab - Coding Competition : Phase 2|<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">  <img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white"> |ALL DONE|
 
-
-
 **********************************************************************
+<h2>✔Contributors of this Repository</h2>
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+    </tr>
+  </table>
+  
+***************************************************************************
+<h2>🏫 This Repository is in association with UEM Kolkata </h2>
+<a href = "https://uem.edu.in/uem-kolkata/"><img src="https://uem.edu.in/app/themes/iem-group-wp-theme/resources/logo.png" width="200px" alt=""/> </a>
+
+**************************************************************************
 
 ## abhisheks008
 
